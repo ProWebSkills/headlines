@@ -5,13 +5,13 @@
 - Built-in BrowserSync server
 - Full email inlining process
 
-## Installation
+## Installation steps
 
-To use this template, your computer needs [Node.js](https://nodejs.org/en/) 0.12 or greater.
+To use this template, your computer needs [Node.js](https://nodejs.org/en/) 0.12 or greater version.
 
 ### Manual Setup
 
-To manually set up the template, first download it with Git:
+To manually set up the template, first download it with Github:
 
 ```bash
 git clone https://github.com/cbessee/headlines projectname
